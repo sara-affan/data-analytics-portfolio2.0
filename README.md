@@ -1,1 +1,1 @@
-# data-analytics-portfolio2.0
+# Data science and analytics projects and visualizations.
